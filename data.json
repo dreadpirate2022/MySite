@@ -1,0 +1,1080 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-12-13T09:56:34.568Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Who was Django Reinhardt?",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-12-13T10:07:56.710Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Who was Django Reinhardt?",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-12-13T10:11:45.509Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Who was Django Reinhardt",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-12-13T11:46:33.561Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Who was Django Reinhardt",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-12-13T12:34:11.797Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Python Programming Language",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-12-13T13:16:01.505Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Python Programming Language",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-12-14T08:10:42.169Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Synthwave",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-12-14T08:11:11.824Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Stranger Things",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-12-15T07:12:27.328Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Coment by Django Reinhardt on Who was Django Reinhardt",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-12-15T07:13:21.179Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Coment by Drive Movie on Synthwave",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-12-15T08:22:10.305Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Coment by Python Rules on Python Programming Language",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-12-15T08:22:10.319Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Coment by Python Rules on Python Programming Language",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-12-15T08:22:10.327Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Coment by Python Rules on Python Programming Language",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-12-15T08:22:10.334Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Coment by Python Rules on Python Programming Language",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-12-15T08:22:10.342Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Coment by Python Rules on Python Programming Language",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-12-15T08:28:49.219Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Coment by DP on Stranger Things",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-12-15T08:28:57.892Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Coment by DP on Stranger Things",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2022-12-15T09:04:37.065Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Python Programming Language",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2022-12-15T09:07:53.237Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Stranger Things",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2022-12-15T09:07:59.784Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Synthwave",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2022-12-15T09:25:19.345Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Stranger Things",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2022-12-15T12:01:53.371Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Markdown post",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2022-12-15T12:17:21.802Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "localhost:8000",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2022-12-16T11:24:12.571Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Coment by Nostalgia on Synthwave",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2022-12-16T11:57:45.557Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Coment by Confused on Markdown post",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add post",
+      "content_type": 7,
+      "codename": "add_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change post",
+      "content_type": 7,
+      "codename": "change_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete post",
+      "content_type": 7,
+      "codename": "delete_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view post",
+      "content_type": 7,
+      "codename": "view_post"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add comment",
+      "content_type": 8,
+      "codename": "add_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change comment",
+      "content_type": 8,
+      "codename": "change_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete comment",
+      "content_type": 8,
+      "codename": "delete_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view comment",
+      "content_type": 8,
+      "codename": "view_comment"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add tag",
+      "content_type": 9,
+      "codename": "add_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change tag",
+      "content_type": 9,
+      "codename": "change_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete tag",
+      "content_type": 9,
+      "codename": "delete_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view tag",
+      "content_type": 9,
+      "codename": "view_tag"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add tagged item",
+      "content_type": 10,
+      "codename": "add_taggeditem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change tagged item",
+      "content_type": 10,
+      "codename": "change_taggeditem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete tagged item",
+      "content_type": 10,
+      "codename": "delete_taggeditem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view tagged item",
+      "content_type": 10,
+      "codename": "view_taggeditem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add site",
+      "content_type": 11,
+      "codename": "add_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change site",
+      "content_type": 11,
+      "codename": "change_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete site",
+      "content_type": 11,
+      "codename": "delete_site"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view site",
+      "content_type": 11,
+      "codename": "view_site"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$390000$JeKRHxlz170lvgyVD4s1nt$GVzhbC95kljhEkyTREkmxbJs4W8epjK3BFz1ObreJ6c=",
+      "last_login": "2022-12-13T09:48:30.154Z",
+      "is_superuser": true,
+      "username": "mirkocvetanoski",
+      "first_name": "",
+      "last_name": "",
+      "email": "mirko.cvetanoski@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-12-13T09:46:47.486Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": { "app_label": "admin", "model": "logentry" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": { "app_label": "auth", "model": "permission" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": { "app_label": "auth", "model": "group" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": { "app_label": "auth", "model": "user" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": { "app_label": "contenttypes", "model": "contenttype" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": { "app_label": "sessions", "model": "session" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": { "app_label": "blog", "model": "post" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": { "app_label": "blog", "model": "comment" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": { "app_label": "taggit", "model": "tag" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": { "app_label": "taggit", "model": "taggeditem" }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": { "app_label": "sites", "model": "site" }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "rczskmetiz0mevcpkxh2a1lb76qdz0l1",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hDKAAWX7j0DmYFBqoYmpV0Z765NutDtf-_9l4i4rTVunZc4ZXEWgzj9boTpwW0H-Y7tNss0t3WZSO6KPGiX1znz83K4fwcVe_3WpILXTMb60QBrAqDESQ06uNEE5wpgKAjAwOwzZpdUyWx9McUiqSLeH-JAOJw:1p51tm:iuTibq8n2zjBCldfbMi5QmwnvafXehwyXCDRGDVGEZQ",
+      "expire_date": "2022-12-27T09:48:30.161Z"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+      "title": "Who was Django Reinhardt",
+      "slug": "who-was-django-reinhardt",
+      "author": 1,
+      "body": "Jean Reinhardt (23 January 1910 тАУ 16 May 1953), known by his Romani nickname Django (French: [d╩Т├г┼Л╔бo ╩Б╔Ыjna╩Бt] or [d╩Т╔С╠Г╔бo ╩Бen╔С╩Бt]), was a Romani-French jazz guitarist and composer. He was one of the first major jazz talents to emerge in Europe and has been hailed as one of its most significant exponents.[2][3]\r\n\r\nWith violinist St├йphane Grappelli,[1] Reinhardt formed the Paris-based Quintette du Hot Club de France in 1934. The group was among the first to play jazz that featured the guitar as a lead instrument.[4] Reinhardt recorded in France with many visiting American musicians, including Coleman Hawkins and Benny Carter, and briefly toured the United States with Duke Ellington's orchestra in 1946. He died suddenly of a stroke in 1953 at the age of 43.",
+      "publish": "2022-12-13T10:07:58Z",
+      "created": "2022-12-13T10:11:45.508Z",
+      "updated": "2022-12-13T11:46:33.559Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+      "title": "Python Programming Language",
+      "slug": "python-programming-language",
+      "author": 1,
+      "body": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32]\r\n\r\nPython is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a \"batteries included\" language due to its comprehensive standard library.[33][34]\r\n\r\nGuido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.[36]",
+      "publish": "2022-12-13T12:33:34Z",
+      "created": "2022-12-13T12:34:11.795Z",
+      "updated": "2022-12-15T09:04:37.057Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+      "title": "Synthwave",
+      "slug": "synthwave",
+      "author": 1,
+      "body": "Synthwave (also called outrun, retrowave, or futuresynth[5]) is an electronic music microgenre that is based predominantly on the music associated with action, science-fiction, and horror film soundtracks of the 1980s.[2] Other influences are drawn from the decade's art and video games.[3] Synthwave musicians often espouse nostalgia for 1980s culture and attempt to capture the era's atmosphere and celebrate it.[9]\r\n\r\nThe genre developed in the mid-to late 2000s through French house producers, as well as younger artists who were inspired by the 2002 video game Grand Theft Auto: Vice City. Other reference points included composers John Carpenter, Jean-Michel Jarre, Vangelis (especially his score for the 1982 film Blade Runner), and Tangerine Dream. Synthwave reached wider popularity after being featured in the soundtracks of the 2011 film Drive (which included some of the genre's best-known songs), 2017 film Thor: Ragnarok and the Netflix series Stranger Things.",
+      "publish": "2022-12-14T08:10:16Z",
+      "created": "2022-12-14T08:10:42.165Z",
+      "updated": "2022-12-15T09:07:59.776Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 6,
+    "fields": {
+      "title": "Stranger Things",
+      "slug": "stranger-things",
+      "author": 1,
+      "body": "Stranger Things is an American science fiction horror drama television series created by the Duffer Brothers, who also serve as showrunners and are executive producers along with Shawn Levy and Dan Cohen. Produced by Monkey Massacre Productions and Levy's 21 Laps Entertainment, the first season was released on Netflix on July 15, 2016. Its second, third, and fourth seasons followed in October 2017, July 2019, and May and July 2022, respectively. In February 2022, the series was renewed for a fifth and final season.\r\n\r\nSet in the 1980s, primarily in the fictional town of Hawkins, Indiana, the series centers on a number of mysteries and supernatural events occurring around the town and their impact on an ensemble of child and adult characters. It stars Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono, Matthew Modine, Noah Schnapp, Sadie Sink, Joe Keery, Dacre Montgomery, Sean Astin, Paul Reiser, Maya Hawke, Priah Ferguson, and Brett Gelman.",
+      "publish": "2022-12-14T08:10:49Z",
+      "created": "2022-12-14T08:11:11.822Z",
+      "updated": "2022-12-15T09:25:19.341Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 7,
+    "fields": {
+      "title": "Markdown post",
+      "slug": "markdown-post",
+      "author": 1,
+      "body": "Here's a [poorly-named link](https://www.google.com/ \"Google\").\r\nNever write \"[click here][^2]\".\r\nVisit [us][web].\r\n\r\n [^2]: https://www.w3.org/QA/Tips/noClickHere\r\n        (Advice against the phrase \"click here\")\r\n [web]: https://programmers.stackexchange.com/ \"Programmers Stack Exchange\"",
+      "publish": "2022-12-15T12:00:14Z",
+      "created": "2022-12-15T12:01:53.356Z",
+      "updated": "2022-12-15T12:01:53.356Z",
+      "status": "PB"
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 1,
+    "fields": {
+      "post": 2,
+      "name": "Django Reinhardt",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "Django was probably the best jazz musician.",
+      "created": "2022-12-15T07:12:27.326Z",
+      "updated": "2022-12-15T07:12:27.326Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 2,
+    "fields": {
+      "post": 5,
+      "name": "Drive Movie",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "The whole 'Drive' movie is with soundtracks from synthwave genre.",
+      "created": "2022-12-15T07:13:21.176Z",
+      "updated": "2022-12-15T07:13:21.176Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 8,
+    "fields": {
+      "post": 4,
+      "name": "Python Rules",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "Python is best programming language",
+      "created": "2022-12-15T08:21:44.021Z",
+      "updated": "2022-12-15T08:21:44.021Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 9,
+    "fields": {
+      "post": 6,
+      "name": "DP",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "This is the worst series ever",
+      "created": "2022-12-15T08:24:22.991Z",
+      "updated": "2022-12-15T08:28:57.883Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 10,
+    "fields": {
+      "post": 6,
+      "name": "Chiroku",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "I don't agree. It's 10/10",
+      "created": "2022-12-15T08:25:58.717Z",
+      "updated": "2022-12-15T08:25:58.717Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 11,
+    "fields": {
+      "post": 5,
+      "name": "Nostalgia",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "It give nostalgia vibes.",
+      "created": "2022-12-16T11:24:12.569Z",
+      "updated": "2022-12-16T11:24:12.569Z",
+      "active": true
+    }
+  },
+  {
+    "model": "blog.comment",
+    "pk": 12,
+    "fields": {
+      "post": 7,
+      "name": "Confused",
+      "email": "mirko.cvetanoski@gmail.com",
+      "body": "I am confused and don't understand this language..",
+      "created": "2022-12-16T11:57:45.556Z",
+      "updated": "2022-12-16T11:57:45.556Z",
+      "active": true
+    }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 1,
+    "fields": { "name": "django", "slug": "django" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 2,
+    "fields": { "name": "jazz", "slug": "jazz" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 3,
+    "fields": { "name": "music", "slug": "music" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 4,
+    "fields": { "name": "backend", "slug": "backend" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 5,
+    "fields": { "name": "python", "slug": "python" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 6,
+    "fields": { "name": "netflix", "slug": "netflix" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 7,
+    "fields": { "name": "series", "slug": "series" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 8,
+    "fields": { "name": "nostalgia", "slug": "nostalgia" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 9,
+    "fields": { "name": "80s", "slug": "80s" }
+  },
+  {
+    "model": "taggit.tag",
+    "pk": 10,
+    "fields": { "name": "markdown", "slug": "markdown" }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 1,
+    "fields": { "tag": 1, "content_type": 7, "object_id": 2 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 2,
+    "fields": { "tag": 2, "content_type": 7, "object_id": 2 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 3,
+    "fields": { "tag": 3, "content_type": 7, "object_id": 2 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 4,
+    "fields": { "tag": 4, "content_type": 7, "object_id": 4 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 5,
+    "fields": { "tag": 5, "content_type": 7, "object_id": 4 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 6,
+    "fields": { "tag": 6, "content_type": 7, "object_id": 6 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 7,
+    "fields": { "tag": 7, "content_type": 7, "object_id": 6 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 8,
+    "fields": { "tag": 8, "content_type": 7, "object_id": 5 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 9,
+    "fields": { "tag": 9, "content_type": 7, "object_id": 5 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 10,
+    "fields": { "tag": 3, "content_type": 7, "object_id": 5 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 11,
+    "fields": { "tag": 9, "content_type": 7, "object_id": 6 }
+  },
+  {
+    "model": "taggit.taggeditem",
+    "pk": 12,
+    "fields": { "tag": 10, "content_type": 7, "object_id": 7 }
+  },
+  {
+    "model": "sites.site",
+    "pk": 1,
+    "fields": { "domain": "localhost:8000", "name": "localhost:8000" }
+  }
+]
